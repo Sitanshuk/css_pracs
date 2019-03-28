@@ -1,4 +1,4 @@
-import numpy as pd
+
 class Additive:	
 	#key value can be a variable and is same as SHIFT cipher
 	def encode(text, key):
